@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 <a href="mailto:syu27073@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.lolicona.eu.org" target="_blank"><img alt="Hexo Badge" src="https://img.shields.io/badge/Hexo-42B883?style=for-the-badge&logo=hexo&logoColor=white" alt="Hexo Badge"/></a>
 </p>
+
+
+<!-- steam-box start -->
+<!-- steam-box end -->
