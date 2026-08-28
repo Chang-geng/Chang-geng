@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/263028e406af0de9bb0d13ead1196af2" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/263028e406af0de9bb0d13ead1196af2" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike 2                 🕘 1230 hrs 52 mins
-🎮 Chill with You Lo-Fi Story       🕘 271 hrs 32 mins
-🎮 Counter-Strike:Global Offensive  🕘 103 hrs 28 mins
-🎮 Godot Engine                     🕘 86 hrs 49 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 40 hrs 28 mins
+🔫 Counter-Strike 2                  🕘 22 hrs 58 mins
+🎮 Chill with You Lo-Fi Story        🕘 7 hrs 52 mins
+🎮 Counter-Strike:Global Offensive   🕘 14 hrs 19 mins
+🎮 Godot Engine                      🕘 10 hrs 25 mins
+🍳 PUBG: BATTLEGROUNDS               🕘 1 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
