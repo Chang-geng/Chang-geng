@@ -3,9 +3,7 @@ name: Update steam playtime
 on:
   workflow_dispatch:
   push:
-    branches: [master]
-  pull_request:
-    branches: [master]
+    branches: [main, master]
   schedule:
     - cron: "0 0 * * *"
 
@@ -26,19 +24,21 @@ jobs:
         uses: actions/setup-go@v2
         with:
           go-version: ^1.14
-        id: go
+
       - name: Check out repo
         uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
-      - name: Clone and run steam-box
+
+      - name: Run steam-box
         run: |-
-          git clone https://github.com/journey-ad/steam-box.git
-          cd steam-box && go build -o steam ./cmd/box/main.go
-          mv ./steam ../ && cd .. && rm -rf steam-box/
+          git clone https://github.com/journey-ad/steam-box.git temp-box
+          cd temp-box
+          go run ./cmd/box/main.go
+          cd .. && rm -rf temp-box
+
       - name: Commit and push
         run: |-
-          ./steam
-          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
+          git config --global user.email "bot@github.com"
+          git config --global user.name "Steam-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull --rebase && git push
