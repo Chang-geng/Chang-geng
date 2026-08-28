@@ -16,19 +16,7 @@
       fill: url(#grad);
     }
 
-    .shine {
-      animation: sweep 3s infinite linear;
-    }
-
-    @keyframes sweep {
-      0% {
-        transform: translateX(-100%);
-      }
-      100% {
-        transform: translateX(100%);
-      }
-    }
   </style>
 
-  <text x="0" y="40" class="text shine">Hi, I'm Venus 👋</text>
+  <text x="0" y="40" class="text">Hi, I'm Venus 👋</text>
 </svg>
