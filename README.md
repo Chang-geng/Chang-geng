@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                 🕘 1230 hrs 52 mins
 🎮 Chill with You Lo-Fi Story       🕘 271 hrs 32 mins
-🎮 Counter-Strike:Global Offensive  🕘 102 hrs 22 mins
+🎮 Counter-Strike:Global Offensive  🕘 103 hrs 28 mins
 🎮 Godot Engine                     🕘 86 hrs 49 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 40 hrs 28 mins
 ```
