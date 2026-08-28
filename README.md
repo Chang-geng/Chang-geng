@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chang-geng&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chang-geng&theme=dark)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chang-geng&theme=default)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chang-geng&theme=dark)
 
 
 ### Find Me
