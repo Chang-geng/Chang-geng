@@ -1,9 +1,8 @@
 name: Update steam playtime
 
 on:
+  workflow_dispatch:
   push:
-    branches: [main, master]
-  pull_request:
     branches: [main, master]
   schedule:
     - cron: "0 0 * * *"
@@ -14,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: ${{ secrets.GIST_ID }}
+      GIST_ID: 62fa160542e61ac240820bc0b02b5632
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
@@ -25,20 +24,15 @@ jobs:
         uses: actions/setup-go@v2
         with:
           go-version: ^1.14
-        id: go
       - name: Check out repo
         uses: actions/checkout@v2
-      - uses: actions/setup-go@v2
-      - name: Clone and run steam-box
-        run: |-
-          git clone https://github.com/YouEclipse/steam-box.git 
-          cd steam-box && go build -o steam ./cmd/box/main.go
-          mv ./steam ../ && cd .. && rm -rf steam-box/
+
+      - name: Run steam-box
+        run: go run ./cmd/box/main.go
 
       - name: Commit and push
         run: |-
-          ./steam
-          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
-          git diff
+          git config --global user.email "bot@github.com"
+          git config --global user.name "Steam-Bot"
           git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull && git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
