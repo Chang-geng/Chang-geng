@@ -27,4 +27,13 @@ Here are some ideas to get you started:
 
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/263028e406af0de9bb0d13ead1196af2" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Counter-Strike 2                 🕘 1230 hrs 52 mins
+🎮 Chill with You Lo-Fi Story       🕘 271 hrs 32 mins
+🎮 Counter-Strike:Global Offensive  🕘 102 hrs 22 mins
+🎮 Godot Engine                     🕘 86 hrs 49 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 40 hrs 28 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
