@@ -1,6 +1,6 @@
 <svg fill="none" width="450" height="60" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="static-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#4facfe" />
       <stop offset="33%" stop-color="#00f2fe" />
       <stop offset="66%" stop-color="#b827fc" />
@@ -13,7 +13,7 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-size: 32px;
       font-weight: 800;
-      fill: url(#grad);
+      fill: url(#static-grad);
     }
   </style>
 
