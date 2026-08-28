@@ -1,0 +1,34 @@
+<svg fill="none" width="450" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4facfe" />
+      <stop offset="33%" stop-color="#00f2fe" />
+      <stop offset="66%" stop-color="#b827fc" />
+      <stop offset="100%" stop-color="#ff9000" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      fill: url(#grad);
+    }
+
+    .shine {
+      animation: sweep 3s infinite linear;
+    }
+
+    @keyframes sweep {
+      0% {
+        transform: translateX(-100%);
+      }
+      100% {
+        transform: translateX(100%);
+      }
+    }
+  </style>
+
+  <text x="0" y="40" class="text">Hi, I'm Venus 👋</text>
+</svg>
