@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ```text
 🔫 Counter-Strike 2                  🕘 22 hrs 58 mins
 🎮 Chill with You Lo-Fi Story        🕘 7 hrs 52 mins
-🎮 Counter-Strike:Global Offensive   🕘 14 hrs 19 mins
+🎮 Counter-Strike:Global Offensive   🕘 13 hrs 50 mins
 🎮 Godot Engine                      🕘 10 hrs 25 mins
 🍳 PUBG: BATTLEGROUNDS               🕘 1 hrs 21 mins
 ```
