@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/263028e406af0de9bb0d13ead1196af2" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike 2                  🕘 24 hrs 55 mins
+🔫 Counter-Strike 2                  🕘 29 hrs 44 mins
 🎮 Chill with You Lo-Fi Story        🕘 7 hrs 52 mins
-🎮 Counter-Strike:Global Offensive   🕘 11 hrs 23 mins
+🎮 Counter-Strike:Global Offensive   🕘 9 hrs 40 mins
 🎮 Godot Engine                      🕘 10 hrs 25 mins
 🎮 A Dance of Fire and Ice           🕘 1 hrs 7 mins
 ```
