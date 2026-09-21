@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/263028e406af0de9bb0d13ead1196af2" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike 2                  🕘 53 hrs 53 mins
+🔫 Counter-Strike 2                  🕘 48 hrs 49 mins
 🎮 Chill with You Lo-Fi Story        🕘 2 hrs 9 mins
 🎮 大科学家                              🕘 2 hrs 30 mins
 🎮 Rabbit and Steel                  🕘 1 hrs 32 mins
-🎮 Buckshot Roulette                 🕘 1 hrs 3 mins
+🎮 Buckshot Roulette                 🕘 1 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
