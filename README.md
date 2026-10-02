@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/263028e406af0de9bb0d13ead1196af2" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike 2                  🕘 26 hrs 17 mins
+🔫 Counter-Strike 2                  🕘 27 hrs 9 mins
 🎮 Chill with You Lo-Fi Story        🕘 7 hrs 26 mins
 🎮 Trizon                            🕘 6 hrs 9 mins
-🎮 大科学家                              🕘 1 hrs 50 mins
+🎮 Buy a Croquette!                  🕘 5 hrs 9 mins
 🎮 Arisen Force: Life Devotee        🕘 3 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
