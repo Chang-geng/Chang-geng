@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/263028e406af0de9bb0d13ead1196af2" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike 2                  🕘 30 hrs 53 mins
-🎮 Chill with You Lo-Fi Story        🕘 14 hrs 27 mins
+🔫 Counter-Strike 2                  🕘 32 hrs 11 mins
+🎮 Chill with You Lo-Fi Story        🕘 12 hrs 53 mins
 🎮 Dream Ending                      🕘 3 hrs 15 mins
 🎮 Marvel Rivals                     🕘 1 hrs 42 mins
 🎮 NanoApostle                       🕘 2 hrs 42 mins
