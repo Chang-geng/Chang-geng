@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/263028e406af0de9bb0d13ead1196af2" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Counter-Strike 2                  🕘 28 hrs 12 mins
-🎮 Chill with You Lo-Fi Story        🕘 19 hrs 35 mins
-🎮 叛逆神魂-GODSOUL🔥                     🕘 3 hrs 4 mins
+🔫 Counter-Strike 2                  🕘 30 hrs 9 mins
+🎮 Chill with You Lo-Fi Story        🕘 21 hrs 23 mins
+🎮 叛逆神魂-GODSOUL🔥                     🕘 3 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
